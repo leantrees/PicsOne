@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## PicStitch -- 极简的长图拼接神器
 
-You can use the [editor on GitHub](https://github.com/leantrees/picstitch/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+PicStitch是一款专注长图拼接的软件。支持拼接单反拍摄的照片,原图画质输出; 支持全网页截图。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+适用场景: 无缝拼接聊天记录、电影台词、网页截图、生活照片、截屏、学习资料、风景、长微博等等。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leantrees/picstitch/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+【特点】
+-- 超清保存,原图画质输出；
+-- 页面简洁，专注长图拼接，无广告，无内购；
+-- 最多拼接24张图片；
+-- 支持手动拼接，遮盖图片重叠的部分；
+-- 支持图片竖向、横向拼接;
+-- 支持图片剪切、涂鸦、添加文字;
+-- 支持设置边框颜色、缝隙 ;
+-- 支持边框样式设置(预览页面,点击左下角“边框”)；
+-- 支持全网页截图(两种使用方式: 1.在safari浏览器中打开PicStitch插件；2.复制网页链接,并启动PicStitch);
+-- 支持系统相册小插件，不用打开App就可以在系统相册里面直接拼接长图,一次最多10张图片(使用方式:打开相册>选择多张图片>选择左下角分享按钮 >“更多”活动>打开“ PicStitch” )
